@@ -19,14 +19,14 @@
 
 ## Framework
 
-![skills](https://skillicons.dev/icons?i=spring,selenium,kafka)
+![skills](https://skillicons.dev/icons?i=spring,selenium,ktor&theme=light)
 
 ## Language
 
-![skills](https://skillicons.dev/icons?i=java,kotlin,js)
+![skills](https://skillicons.dev/icons?i=java,kotlin,js&theme=light)
 
 ## Tech
-![skills](https://skillicons.dev/icons?i=idea,maven,docker)
+![skills](https://skillicons.dev/icons?i=idea,maven,docker&theme=light)
 
 <a href="https://github.com/tu-yucheng/taketoday-tutorial4j" style="margin-bottom:5px">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tu-yucheng&repo=taketoday-tutorial4j" />
